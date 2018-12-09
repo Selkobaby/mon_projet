@@ -1,0 +1,9 @@
+Avec Vim, c'est beaucoup plus rapide pour écrire que les autres logiciel de 
+texte puisqu'on ecrit tout sur la commande.
+
+on peut :
+
+- quitter avec q
+- sauvegarder avec ":w"
+- sauvegarder et quitter avec ":wq"
+- copier avec u
