@@ -6,4 +6,5 @@ on peut :
 - quitter avec q
 - sauvegarder avec ":w"
 - sauvegarder et quitter avec ":wq"
-- copier avec u
+- copier un mot avec yw
+- coller avec p
