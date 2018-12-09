@@ -1,0 +1,11 @@
+Git permet de sauvegarder les versions différentes de chaques projets.
+
+tout d'abord on crée un dossir en faisant mkdir "NomDuDossier"
+
+ensuite, on initialise le depot local en faisant git init
+
+on crée le fichier dans le dossier touch "mon-projet.java"
+
+création du projet vim mon-projet.java
+
+etc...
